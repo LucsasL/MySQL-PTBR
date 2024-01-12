@@ -9,10 +9,10 @@ O curso se dedica a ensinar uma base teórica de banco de dados bem como ensinar
 
 ## Nesse curso, os seguintes tópicos vão ser discutidos:
 
-- DDL
+- Data Definition Language (DDL)
 
-- DML
+- Data Manipulation Language (DML)
 
-- DQL
+- Data Query Language (DQL)
 
 - Modelo Relacional
